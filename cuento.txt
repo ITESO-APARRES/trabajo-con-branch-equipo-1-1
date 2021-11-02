@@ -1,4 +1,21 @@
-The drama of using Github
+Halloween
+
+Capitule 3:
+
+La historia empieza la noche de Halloween de 1963 cuando Michael Myers, un niño de seis años, vestido con un traje de payaso, sube al cuarto
+de su hermana mayor Judith Myers y se pone una máscara de payaso que el novio de su hermana llevaba. Se acerca a ella y con un enorme y afilad
+o cuchillo de cocina la apuñala hasta matarla. Luego se aleja del cuarto y se dispone a abandonar la casa cuando es sorprendido por sus padres.
+ 
+15 años después, durante la noche del 30 de octubre de 1978, el doctor Sam Loomis, psiquiatra de Michael Myers, acompañado de la enfermera
+Marion Chambers, se dirige al asilo Smith's Grove-Warren County Sanitarium, y al llegar se dan cuenta de que ha habido una fuga masiva de internos,
+incluido Michael Myers (ahora de 21 años). Al día siguiente, el pequeño pueblo de Haddonfield se prepara a recibir la noche de Halloween. Laurie Strode,
+una adolescente de diecisiete años que es un "ratón de biblioteca", rechaza acompañar a sus amigas Annie y Lynda a una fiesta, pues debe hacer de niñera de 
+Tommy Doyle. Mientras caminan por la calle, Annie, Laurie y Linda se encuentran con Michael, que ahora está conduciendo. Michael acecha a las tres chicas
+durante el viaje de vuelta a casa. Pero eso no basta para Michael.
+
+Mientras, el doctor Loomis ha llegado, siguiéndole la pista a su paciente. Él y el sheriff Leigh Brackett (padre de Annie) encuentran que Michael Myers se refugió
+en su antigua casa, ahora abandonada: un perro medio devorado es hallado ahí. El médico le aclara al agente que deben detenerlo inmediatamente, porque
+Myers no es un loco cualquiera, ni siquiera un ser humano, sino que es pura y simplemente maldad. 
 
 Authors:
 Cardona Josue: capitulo 1
@@ -7,3 +24,5 @@ Cardona Josue: capitulo 1
 Garcia Diego
 Suarez Raul
 Velazquez Javier
+
+
