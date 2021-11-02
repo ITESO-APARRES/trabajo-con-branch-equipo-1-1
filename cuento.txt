@@ -1,7 +1,9 @@
 The drama of using Github
 
 Authors:
-Cardona Josue
+Cardona Josue: capitulo 1
+	Ahi donde se encuentran duendes, gnomos y alumnos del bootcamp... de esos que no duermen por hacer tarea de parres, la noche de dia brujas, con la luz de la luna llena el proyecto final del terror se acercaba... 
+ 
 Garcia Diego
 Suarez Raul
 Velazquez Javier
